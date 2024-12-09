@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rockatoo character
+* source:	https://sketchfab.com/3d-models/rockatoo-character-1595e8668689427f87cffb2b0daf99e5
+* author:	Macauley.B (https://sketchfab.com/Macauley.B)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rockatoo character" (https://sketchfab.com/3d-models/rockatoo-character-1595e8668689427f87cffb2b0daf99e5) by Macauley.B (https://sketchfab.com/Macauley.B) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

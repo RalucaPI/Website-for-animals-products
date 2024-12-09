@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flying Synthwave bird
+* source:	https://sketchfab.com/3d-models/flying-synthwave-bird-90e6574b25c647b9a05b3c6a97181258
+* author:	Hancock (https://sketchfab.com/hans.fredo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flying Synthwave bird" (https://sketchfab.com/3d-models/flying-synthwave-bird-90e6574b25c647b9a05b3c6a97181258) by Hancock (https://sketchfab.com/hans.fredo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

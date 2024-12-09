@@ -1,0 +1,11 @@
+Model Information:
+* title:	Squirrel
+* source:	https://sketchfab.com/3d-models/squirrel-e602573e900f432eb5d431648d5de76b
+* author:	marcomazzo (https://sketchfab.com/marcomazzo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Squirrel" (https://sketchfab.com/3d-models/squirrel-e602573e900f432eb5d431648d5de76b) by marcomazzo (https://sketchfab.com/marcomazzo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	hamster
+* source:	https://sketchfab.com/3d-models/hamster-eaace4e2c59843198f0443243a1f26f4
+* author:	coconut_crab (https://sketchfab.com/coconut_crab)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hamster" (https://sketchfab.com/3d-models/hamster-eaace4e2c59843198f0443243a1f26f4) by coconut_crab (https://sketchfab.com/coconut_crab) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

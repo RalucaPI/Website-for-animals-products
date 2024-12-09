@@ -1,0 +1,11 @@
+Model Information:
+* title:	190808 Fish
+* source:	https://sketchfab.com/3d-models/190808-fish-c5c655298c884af18f48b3657970c9f1
+* author:	edgar.febus (https://sketchfab.com/edgar.febus)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "190808 Fish" (https://sketchfab.com/3d-models/190808-fish-c5c655298c884af18f48b3657970c9f1) by edgar.febus (https://sketchfab.com/edgar.febus) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

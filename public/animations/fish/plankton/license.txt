@@ -1,0 +1,11 @@
+Model Information:
+* title:	Game asset - Planktomania - Krill
+* source:	https://sketchfab.com/3d-models/game-asset-planktomania-krill-f8a4d1ba05bc46ccaf32ed6cd7e40ce9
+* author:	yannoch (https://sketchfab.com/yannoch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Game asset - Planktomania - Krill" (https://sketchfab.com/3d-models/game-asset-planktomania-krill-f8a4d1ba05bc46ccaf32ed6cd7e40ce9) by yannoch (https://sketchfab.com/yannoch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

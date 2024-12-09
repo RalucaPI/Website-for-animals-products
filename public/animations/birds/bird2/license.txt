@@ -1,0 +1,11 @@
+Model Information:
+* title:	Catch the Parrot
+* source:	https://sketchfab.com/3d-models/catch-the-parrot-0d4d500333f14dd88f04d934f9ff48ec
+* author:	Miguelangelo Rosario (https://sketchfab.com/miguelangelo2k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Catch the Parrot" (https://sketchfab.com/3d-models/catch-the-parrot-0d4d500333f14dd88f04d934f9ff48ec) by Miguelangelo Rosario (https://sketchfab.com/miguelangelo2k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

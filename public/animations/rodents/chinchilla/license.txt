@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinchilla (Low_poly)
+* source:	https://sketchfab.com/3d-models/chinchilla-low-poly-f8104f9ddbdb47c9a49e8b8c2e2dcf70
+* author:	Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinchilla (Low_poly)" (https://sketchfab.com/3d-models/chinchilla-low-poly-f8104f9ddbdb47c9a49e8b8c2e2dcf70) by Nyilonelycompany (https://sketchfab.com/Nyilonelycompany) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -1,0 +1,130 @@
+.container {
+  display: grid;
+  place-items: center;
+  grid-template-areas: "inner-div";
+  width: auto;
+  height: 600px;
+  filter: drop-shadow(0 10px 8px rgba(0, 0, 0, 0.04)) drop-shadow(0 4px 3px rgba(0, 0, 0, 0.1));
+  position: relative;
+}
+
+@media (min-width: 768px) {
+  .container-normal {
+      width: 66.666667% !important
+  }
+
+  ;
+}
+
+@media (min-width: 768px) {
+  .container-large {
+      width: 91.666667% !important
+  }
+
+  ;
+}
+
+.inner {  
+  grid-area: inner-div;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  transition-property: all;
+  transition-duration: 500ms;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  width: 1518px;
+  height: 100%;
+}
+
+.active-item {
+  z-index: 10;
+  animation: 0.3s ease-in-out
+
+}
+
+.right-active-item {
+  /* --transform-scale-x: .9;
+  --transform-scale-y: .9;  */
+  opacity: 0.7;
+  transform: scale(0.9, 0.9);
+  z-index: -10;
+}
+
+.left-active-item {
+  /* --transform-scale-x: .9;
+--transform-scale-y: .9;  */
+  opacity: 0.7;
+  transform: scale(0.9, 0.9);
+  z-index: -10;
+}
+
+.inactive-items {
+  opacity: 0;
+}
+
+.image {
+  object-position: center;
+  transition-property: all;
+  transition-duration: 300ms;
+  
+}
+
+.inner:hover .image {
+  transform: scale(1.1);
+}
+
+.image-normal {
+  height: 600px
+}
+
+.image-large {
+  height: 24rem
+}
+
+@media (min-width: 1024px) {
+  .image-large {
+      height: 650px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .image-large {
+      height: 550px
+  }
+}
+
+
+
+.active-render-item {
+  display: flex;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.default-item {
+  padding: 0.25rem;
+  margin: 0.25rem;
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 0.5rem;
+  mix-blend-mode: screen;
+}
+
+.custom-item {
+  margin: 0.25rem
+      /* 4px */
+  ;
+  padding: 0.25rem
+      /* 4px */
+  ;
+}
+
+

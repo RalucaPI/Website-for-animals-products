@@ -1,0 +1,11 @@
+Model Information:
+* title:	Smoothie 3D + Blender Seahorse
+* source:	https://sketchfab.com/3d-models/smoothie-3d-blender-seahorse-a615760dd5b049c4976ba13011e61e68
+* author:	Jimmy Gunawan (https://sketchfab.com/jimmygunawan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Smoothie 3D + Blender Seahorse" (https://sketchfab.com/3d-models/smoothie-3d-blender-seahorse-a615760dd5b049c4976ba13011e61e68) by Jimmy Gunawan (https://sketchfab.com/jimmygunawan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
